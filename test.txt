@@ -1,3 +1,5 @@
 Here is the original file
 
 this is for commit A
+
+this is for commit after B
