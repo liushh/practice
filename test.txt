@@ -3,3 +3,6 @@ Here is the original file
 this is for commit A
 
 this is for commit after B
+This is master commit
+
+This is for commit D
