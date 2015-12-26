@@ -1,5 +1,5 @@
 Here is the original file
 
-This is for commit B
+this is for commit A
 
-This is master commit
+this is for commit after B
