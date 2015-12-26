@@ -1,3 +1,5 @@
 Here is the original file
 
 This is for commit B
+
+This is master commit
