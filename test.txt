@@ -2,6 +2,10 @@ back to original version
 
 master commit
 
+<<<<<<< HEAD
 1
 
 2
+added branch5
+
+hahahaha
